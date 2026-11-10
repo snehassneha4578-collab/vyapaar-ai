@@ -83,3 +83,20 @@ Potential future improvements include cloud database integration, authentication
 ## License
 
 No open-source license has been specified yet. All rights are reserved by default unless a license is added.
+
+## Product Screenshots
+
+### Main Dashboard
+![VYAPAAR AI Dashboard](public/images/vyapaar-ai-hero.jpeg)
+
+### AI Business Assistant
+![VYAPAAR AI Assistant](public/images/vyapaar-ai-assistant.jpeg)
+
+### Smart Inventory Management
+![VYAPAAR AI Inventory](public/images/vyapaar-ai-inventory.jpeg)
+
+### Invoices and Business Insights
+![VYAPAAR AI Invoices and Insights](public/images/vyapaar-ai-invoices-insights.jpeg)
+
+### Product Vision
+![VYAPAAR AI Vision](public/images/vyapaar-ai-vision.jpeg)
