@@ -15,9 +15,7 @@ It brings business insights, intelligent assistance, inventory management and in
 
 Designed around accessibility and ease of use, VYAPAAR AI helps business owners organize their records, monitor stock, understand invoice information and interact with business data using natural language.
 
-### 🌐 Live Dashboard
-
-<ins>**[🚀 Explore VYAPAAR AI — Live Application](https://vyapaar-ai-beta.vercel.app)**</ins>
+### 🌐 Live Dashboard — [🚀 Explore VYAPAAR AI — Live Application](https://vyapaar-ai-beta.vercel.app/)
 
 **GitHub Repository:** [View Source Code](https://github.com/snehassneha4578-collab/vyapaar-ai)
 
